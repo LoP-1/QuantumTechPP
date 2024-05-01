@@ -75,7 +75,11 @@ section{
     position: relative;
     height: 100vh;
     width: 100%;
+<<<<<<< HEAD
     background-image: url(/img/fondo_principal.png);
+=======
+    background-image: url(fondo_principal.png);
+>>>>>>> e8ab6779e85418ca6b934f0548e31ef0657fc50f
     background-size: cover;
     background-position: center;
     display: flex;
